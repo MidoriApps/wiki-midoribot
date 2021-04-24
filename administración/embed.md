@@ -1,0 +1,26 @@
+# Comando {prefix}embed
+
+### Uso
+```css
+> {prefix}embed mensaje
+```
+
+### Retorna
+```md
+Envía tu mensaje en un mensaje embed con estilos ya establecidos.
+```
+
+### Categoría
+```md
+Admin
+```
+
+### Alias
+```md
+> embed | anuncio <
+```
+
+### Prefijo por defecto
+```css
+m!
+```

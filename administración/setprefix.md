@@ -1,23 +1,23 @@
-# Comando {prefix}funar
+# Comando {prefix}setprefix
 
 ### Uso
 ```css
-> {prefix}funar @user
+> {prefix}setprefix prefijo
 ```
 
 ### Retorna
 ```md
-Envía una imagen de que funaron a tu mención.
+Cambia el prefijo para utilizar en el servidor.
 ```
 
 ### Categoría
 ```md
-Entretenimiento
+Admin
 ```
 
 ### Alias
 ```md
-> funar | funa <
+> setprefix <
 ```
 
 ### Prefijo por defecto

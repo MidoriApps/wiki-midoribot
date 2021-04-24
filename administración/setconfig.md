@@ -1,23 +1,23 @@
-# Comando {prefix}funar
+# Comando {prefix}setconfig
 
 ### Uso
 ```css
-> {prefix}funar @user
+> {prefix}setconfig
 ```
 
 ### Retorna
 ```md
-Envía una imagen de que funaron a tu mención.
+Crea el documento de configuración para el servidor.
 ```
 
 ### Categoría
 ```md
-Entretenimiento
+Admin
 ```
 
 ### Alias
 ```md
-> funar | funa <
+> setconfig <
 ```
 
 ### Prefijo por defecto
