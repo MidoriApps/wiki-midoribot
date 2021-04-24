@@ -2,12 +2,12 @@
 
 ### Uso
 ```css
-> {prefix}galleta
+> {prefix}galleta @user
 ```
 
 ### Retorna
 ```md
-Midori BOT te da una galleta.
+Le das una galleta a la persona mencionada, y si no mencionas, Midori te da una.
 ```
 
 ### Categoría
