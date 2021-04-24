@@ -9,10 +9,10 @@ Para saber cómo funciona un determinado comando, presiona su nombre para saber 
 [8ball](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/8ball.md), [abrazar](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/abrazar.md), [amor](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/amor.md), [avatar](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/avatar.md), [besar](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/besar.md), [cachetear](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/cachetear.md), [cachipun](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/cachipun.md), [funar](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/funar.md), [galleta](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/galleta.md), [pescar](https://github.com/MidoriApps/wiki-midoribot/blob/master/entretenimiento/pescar.md)
 
 ### Admin
-[embed](https://github.com/MidoriApps/wiki-midoribot/blob/master/administraci%C3%B3n/embed.md), [setconfig](https://github.com/MidoriApps/wiki-midoribot/blob/master/administraci%C3%B3n/setconfig.md), [setprefix]()
+[embed](https://github.com/MidoriApps/wiki-midoribot/blob/master/admin/embed.md), [setconfig](https://github.com/MidoriApps/wiki-midoribot/blob/master/admin/setconfig.md), [setprefix](https://github.com/MidoriApps/wiki-midoribot/blob/master/admin/setprefix.md)
 
 ### Help
-[help](https://google.com)
+[admin](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/admin.md), [entretenimiento](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/entretenimiento.md), [general](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/general.md), [help](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/help.md)
 
 ---
 Desarrollado por MidoriApps, equipo de desarrolladores independientes.
