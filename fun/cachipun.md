@@ -12,7 +12,7 @@ Resultado del enfrentamiento contra Midori BOT.
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias

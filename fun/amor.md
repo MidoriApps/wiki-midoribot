@@ -1,23 +1,23 @@
-# Comando {prefix}avatar
+# Comando {prefix}amor
 
 ### Uso
 ```css
-> {prefix}avatar @user
+> {prefix}amor @user
 ```
 
 ### Retorna
 ```md
-Envía un gif de dos personas abrazándose.
+Envía un % aleatorio de amor de ti y la persona mencionada.
 ```
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias
 ```md
-> avatar | photo  <
+> amor | love  <
 ```
 
 ### Prefijo por defecto

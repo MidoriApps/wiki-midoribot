@@ -1,23 +1,23 @@
-# Comando {prefix}besar
+# Comando {prefix}8ball
 
 ### Uso
 ```css
-> {prefix}besar @user
+> {prefix}8ball pregunta
 ```
 
 ### Retorna
 ```md
-Envía un gif de dos personas besándose.
+Respuesta aleatoria a tu pregunta.
 ```
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias
 ```md
-> besar | kiss  <
+> 8ball | ochoball | ball  <
 ```
 
 ### Prefijo por defecto

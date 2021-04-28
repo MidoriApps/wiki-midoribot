@@ -1,8 +1,8 @@
-# Comando {prefix}general
+# Comando {prefix}info_general
 
 ### Uso
 ```css
-> {prefix}general
+> {prefix}info_general
 ```
 
 ### Retorna
@@ -17,7 +17,7 @@ Help
 
 ### Alias
 ```md
-> general | generales  <
+> info_general | info_generales  <
 ```
 
 ### Prefijo por defecto

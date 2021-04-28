@@ -1,8 +1,8 @@
-# Comando {prefix}abrazar
+# Comando {prefix}avatar
 
 ### Uso
 ```css
-> {prefix}abrazar @user
+> {prefix}avatar @user
 ```
 
 ### Retorna
@@ -12,12 +12,12 @@ Envía un gif de dos personas abrazándose.
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias
 ```md
-> abrazar | hug  <
+> avatar | photo  <
 ```
 
 ### Prefijo por defecto

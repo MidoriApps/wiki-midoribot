@@ -12,7 +12,7 @@ Le das una galleta a la persona mencionada, y si no mencionas, Midori te da una.
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias

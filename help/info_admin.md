@@ -1,8 +1,8 @@
-# Comando {prefix}admin
+# Comando {prefix}info_admin
 
 ### Uso
 ```css
-> {prefix}admin
+> {prefix}info_admin
 ```
 
 ### Retorna
@@ -17,7 +17,7 @@ Help
 
 ### Alias
 ```md
-> admin | administración | staff  <
+> info_admin | info_staff  <
 ```
 
 ### Prefijo por defecto

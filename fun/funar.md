@@ -1,23 +1,23 @@
-# Comando {prefix}pescar
+# Comando {prefix}funar
 
 ### Uso
 ```css
-> {prefix}pescar
+> {prefix}funar @user
 ```
 
 ### Retorna
 ```md
-Pescas algo aleatorio.
+Envía una imagen de que funaron a tu mención.
 ```
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias
 ```md
-> pescar | pesca | fish | catch <
+> funar | funa <
 ```
 
 ### Prefijo por defecto

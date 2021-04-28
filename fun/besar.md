@@ -1,23 +1,23 @@
-# Comando {prefix}funar
+# Comando {prefix}besar
 
 ### Uso
 ```css
-> {prefix}funar @user
+> {prefix}besar @user
 ```
 
 ### Retorna
 ```md
-Envía una imagen de que funaron a tu mención.
+Envía un gif de dos personas besándose.
 ```
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias
 ```md
-> funar | funa <
+> besar | kiss  <
 ```
 
 ### Prefijo por defecto

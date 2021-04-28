@@ -12,7 +12,7 @@ Envía un gif de una persona dando una bofetada a otra.
 
 ### Categoría
 ```md
-Entretenimiento
+Fun
 ```
 
 ### Alias
