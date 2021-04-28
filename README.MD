@@ -15,6 +15,7 @@ Para saber cómo funciona un determinado comando, presiona su nombre para saber 
 [info_admin](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/info_admin.md), [info_cookie](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/info_cookie.md), [info_fun](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/info_fun.md), [info_general](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/info_general.md), [help](https://github.com/MidoriApps/wiki-midoribot/blob/master/help/help.md)
 
 ### Cookie
+[cookie]https://github.com/MidoriApps/wiki-midoribot/blob/master/cookie/cookie.md(), [cookies](https://github.com/MidoriApps/wiki-midoribot/blob/master/cookie/cookies.md), [give_cookie](https://github.com/MidoriApps/wiki-midoribot/blob/master/cookie/give_cookie.md)
 
 ---
 Desarrollado por MidoriApps, equipo de desarrolladores independientes.
