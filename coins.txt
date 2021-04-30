@@ -1,0 +1,50 @@
+Cookies Emojis
+Cookie                = :m_cookie:         | <:m_cookie:836764634680786944> 
+Candy                 = :m_candy:          | <:m_candy:836767774491279360>
+Milk                  = :m_milk:           | <:m_milk:836767248600268803> 
+Fortune Cookie        = :m_fortune:        | <:m_fortune:836764652763217952> 
+Candy Jar             = :m_candy_jar:      | <:m_candy_jar:836768864464535592> 
+Triple Fortune Cookie = :m_triple_fortune: | <:m_triple_fortune:836764669389176882>
+
+
+Tiempos
+| Acción          | Minutos |
+| Obtener Galleta | 15 min  |
+| Dar Galleta     | 60 min  |
+
+Galletas
+| Nombre                | XP  | %  | Vender   | Dar Cookie |  
+| Cookie                | 25  | 55 | 3 coins  | 125        |
+| Candy                 | 50  | 20 | 5 coins  | 250        |
+| Milk                  | 100 | 15 | 8 coins  | 500        |
+| Fortune Cookie        | 150 | 6  | 13 coins | NO ACTIVO  |
+| Candy Jar             | 350 | 3  | 20 coins | NO ACTIVO  |
+| Triple Fortune Cookie | 450 | 1  | 50 coins | NO ACTIVO  |
+
+Sugar Store
+| Nombre       | Minutos | Requesito | Valor         |
+| Azúcar       | 15 min  | Nivel 0   | 0 coins       | B6E5FF
+| Morena       | 14 min  | Nivel 5   | 50 coins      | DDC0A6
+| Del Bosque   | 13 min  | Nivel 10  | 200 coins     | 228B22
+| De Maple     | 12 min  | Nivel 15  | 500 coins     | FE5000
+| Luminosa     | 11 min  | Nivel 25  | 1.000 coins   | ECD461
+| Pitufa       | 10 min  | Nivel 50  | 2.500 coins   | 24BCED
+| Minera       | 09 min  | Nivel 75  | 7.000 coins   | 293133
+| Alienígena   | 08 min  | Nivel 100 | 10.000 coins  | 51FF0D
+| Del Infierno | 07 min  | Nivel 150 | 20.000 coins  | 531E27
+| Del Fin      | 06 min  | Nivel 200 | 35.000 coins  | 8F678B
+| Dorada       | 05 min  | Nivel 250 | 50.000 coins  | FFD700
+
+Drunk Store
+| Minutos | Requesito | Valor
+| 60 min  | Nivel 0   | 0 coins
+| 57 min  | Nivel 5   | 100 coins
+| 54 min  | Nivel 10  | 400 coins
+| 51 min  | Nivel 15  | 1.000 coins
+| 48 min  | Nivel 25  | 2.000 coins
+| 45 min  | Nivel 50  | 5.000 coins
+| 42 min  | Nivel 75  | 14.000 coins
+| 39 min  | Nivel 100 | 20.000 coins
+| 36 min  | Nivel 150 | 40.000 coins
+| 33 min  | Nivel 200 | 70.000 coins
+| 30 min  | Nivel 250 | 100.000 coins
