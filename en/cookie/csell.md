@@ -8,7 +8,7 @@
 ### 📟 Use
 ```css
 > {prefix}csell type amount
-// if you don't specify amout, all cookies of the type are sold.
+// if you don't specify amount, all cookies will be sold.
 ```
 
 ### 🟢 Return
