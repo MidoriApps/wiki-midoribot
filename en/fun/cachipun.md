@@ -12,7 +12,7 @@
 
 ### 🟢 Return
 ```md
-You play cachipún/rps(rock - paper - scissor) versus Midori BOT.
+Play cachipún/rps(rock - paper - scissor) versus Midori BOT.
 ```
 
 ### 📚 Category
