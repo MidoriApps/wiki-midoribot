@@ -7,7 +7,7 @@
 
 ### 🟢 Return
 ```md
-You slap a your @mention.
+Slap your @mention.
 ```
 
 ### 📚 Category
