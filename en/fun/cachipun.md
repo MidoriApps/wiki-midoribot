@@ -12,7 +12,7 @@
 
 ### 🟢 Return
 ```md
-You play cachipún (spanish) versus Midori BOT.
+You play cachipún/rps(rock - paper - scissor) versus Midori BOT.
 ```
 
 ### 📚 Category
@@ -22,7 +22,7 @@ Fun
 
 ### 📜 Alias
 ```md
-> cachipun <
+> cachipun | rps <
 ```
 
 ### 🤖 Default prefix
