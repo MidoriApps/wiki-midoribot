@@ -12,7 +12,7 @@
 
 ### 🟢 Return
 ```md
-Give a cookie to @mention and you win XP.
+Give a cookie to @mention and win XP.
 ```
 
 ### 📚 Category
