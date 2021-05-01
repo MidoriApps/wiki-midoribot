@@ -7,7 +7,7 @@
 
 ### 🟢 Return
 ```md
-Create settings document to your server.
+Create a settings document for your server.
 ```
 
 ### 📚 Category
