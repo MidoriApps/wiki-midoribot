@@ -7,8 +7,7 @@
 
 ### 🟢 Return
 ```md
-Retorna el porcentaje de amor con la @mention.
-Return a percentage love of with your @mention.
+Show a percentage love with your @mention.
 ```
 
 ### 📚 Category
