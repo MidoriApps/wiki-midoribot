@@ -7,7 +7,7 @@
 
 ### 🟢 Return
 ```md
-Return to existing command modules.
+Return existing command modules.
 ```
 
 ### 📚 Category
