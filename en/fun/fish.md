@@ -7,7 +7,7 @@
 
 ### 🟢 Return
 ```md
-You fish a random item.
+Fish a random item.
 ```
 
 ### 📚 Category
